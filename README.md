@@ -7,7 +7,6 @@ The project focuses on Python problem solving, data handling, validation, except
 
 The assignment includes:
 
-- Theoretical questions
 - Order Processing
 - Clean Numeric Data
 - Custom Validation Exception
